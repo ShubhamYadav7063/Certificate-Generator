@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Poppins&family=Roboto&display=swap');
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -23,7 +25,7 @@
 }
 
 .main-heading{
-    font-family: 'Montserrat';
+    font-family: 'poppins';
     padding-top: 20px;
     color: blue;
     font-size: 35px;
@@ -42,7 +44,7 @@
 button{
     background-color: none;
     padding: 10px;
-    font-family: 'montserrat';
+    font-family: 'poppins';
     border-radius: 10px;
     border: none;
     margin-top: 20px;

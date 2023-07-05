@@ -1,3 +1,5 @@
+import {saveAs} from './fileSaver.js'
+
 let userName = document.getElementById('name');
 let submit = document.getElementById('print');
 let{PDFDocument,rgb,degrees} = PDFLib;
